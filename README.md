@@ -12,6 +12,14 @@ Linguagens de Programação: JavaScript
 Frameworks e Bibliotecas: React, Node.js
 Ferramentas e Tecnologias: Git
 
+1° Projeto - Conversor de moedas
+Descrição: Um conversor simples de algumas moedas famosas.
+Tecnologias: Foi utilizado HTML, CSS e Javascript
+
+2° Projeto - Previsão do tempo
+Descrição: Um site de previsão do tempo que mostra atualmente o clima em qualquer cidade do planeta.
+Tecnologias: Foi utilizado HTML, CSS e Javascript
+
 Educação
 Cruzeiro do Sul cursando analise e desenvolvimento de sistemas
 01/2024 com previsão de termino em 12/2025

@@ -1,5 +1,5 @@
 Olá! Eu sou o Matheus 👋
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por programação, com experiência em HTML, CSS, Javascript. Meu objetivo é criar soluções inovadoras e eficientes que façam a diferença.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por programação, com experiência em HTML, CSS, Javascript, Bootstrap. Meu objetivo é criar soluções inovadoras e eficientes que façam a diferença.
 
 Sobre Mim
 Nome: Matheus de Sousa Carneiro
@@ -21,9 +21,7 @@ Descrição: Um site de previsão do tempo que mostra atualmente o clima em qual
 Tecnologias: Foi utilizado HTML, CSS e Javascript
 
 Educação
-Cruzeiro do Sul cursando analise e desenvolvimento de sistemas
-01/2024 com previsão de termino em 12/2025
-Curso de programação DevClub
+Curso de programação Udemy
 
 Contato
 Sinta-se à vontade para entrar em contato se você estiver interessado em colaborar ou se tiver alguma pergunta:
